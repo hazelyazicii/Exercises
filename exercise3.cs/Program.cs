@@ -1,7 +1,7 @@
 ﻿
 //Alan Çalışması
 using System;
-class HelloWorld
+class AlanCalismasi
 {
     static void Main(string[] args)
     {
