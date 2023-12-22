@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuzdelikHesaplama", "YuzdelikHesaplama\YuzdelikHesaplama.csproj", "{3F152D8D-AA19-4E85-A3AF-06D1CE25A0CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ödev 1", "ödev 1\ödev 1.csproj", "{573D43A5-0DB0-4D24-80E8-B951004D09DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3F152D8D-AA19-4E85-A3AF-06D1CE25A0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3F152D8D-AA19-4E85-A3AF-06D1CE25A0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3F152D8D-AA19-4E85-A3AF-06D1CE25A0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3F152D8D-AA19-4E85-A3AF-06D1CE25A0CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573D43A5-0DB0-4D24-80E8-B951004D09DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573D43A5-0DB0-4D24-80E8-B951004D09DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573D43A5-0DB0-4D24-80E8-B951004D09DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573D43A5-0DB0-4D24-80E8-B951004D09DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8442176A-EA33-4ED2-9026-6B0CAE9DB07C}
+		SolutionGuid = {22A74813-1815-41CE-804B-79FB914CA078}
 	EndGlobalSection
 EndGlobal
