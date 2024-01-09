@@ -1,22 +1,7 @@
-﻿
-//Alan Çalışması
-using System;
-class HelloWorld
+﻿string metin = "Bilgisayar";
+char[4] yeniDizi = metin.ToCharArray();
+foreach (var item in yeniDizi)
 {
-    static void Main(string[] args)
-    {
-        const double PI = 3.14;
-        double yaricap, alan, cevre;
-        Console.Write("Dairenin yarı çapı: ");
+    Console.WriteLine(item);
 
-        yaricap = Convert.ToDouble(Console.ReadLine());
-
-        alan = PI * yaricap * yaricap;
-
-        cevre = 2 * PI * yaricap;
-
-        Console.WriteLine("Dairenin Alanı: " + alan);
-        Console.WriteLine("Dairenin Çevresi: " + cevre);
-
-    }
 }
